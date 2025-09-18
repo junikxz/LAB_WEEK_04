@@ -12,4 +12,6 @@
               android:label="fragment_favorites" tools:layout="@layout/fragment_favorites"/>
     <fragment android:id="@+id/detailFragment" android:name="com.example.lab_week_04.DetailFragment"
               android:label="fragment_detail" tools:layout="@layout/fragment_detail"/>
+    <fragment android:id="@+id/cafeFragment2" android:name="com.example.lab_week_04.CafeFragment"
+              android:label="fragment_cafe" tools:layout="@layout/fragment_cafe"/>
 </navigation>
